@@ -1,0 +1,4 @@
+com\mycompany\seguridadprimerdemo\MvcConfig.class
+com\mycompany\seguridadprimerdemo\WebSecurityConfig.class
+com\mycompany\seguridadprimerdemo\SecuringWebApplication.class
+com\mycompany\seguridadprimerdemo\SeguridadPrimerDemo.class
